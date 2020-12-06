@@ -35,6 +35,7 @@ body{
 
 .wrapper .input_field{
   margin-bottom: 10px;
+  padding: 25px;
 }
 
 .wrapper .input_field input[type="text"],
